@@ -1,0 +1,27 @@
+h1{
+	text-align: center;
+}
+
+body{
+	background-color: azure;
+}
+
+.git{
+	background-image: url("git.jpeg");
+	background-repeat: no-repeat;
+	background-position: center;	
+	width: 50%;
+	height: 500px;
+	margin: 0px auto;
+	
+
+}
+
+.contenedor{
+background: gold;
+
+}
+.contenedor h2{
+color: blue;
+font-family: sans-serif;
+}
